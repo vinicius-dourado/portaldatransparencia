@@ -1,0 +1,11 @@
+
+version: 2
+
+models:
+  - name: max_temp
+    description: "A dbt model to create a Mart of Max Temperature for certains cities"
+    columns:
+      - name: temp_max
+        description: "Temperature"
+        tests:
+          - not_null

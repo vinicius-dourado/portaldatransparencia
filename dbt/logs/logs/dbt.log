@@ -1,0 +1,12 @@
+
+
+============================== 2022-08-10 20:40:56.378867 | 8729aae0-3667-470e-923c-6e9ae153fa4c ==============================
+[0m20:40:56.378882 [info ] [MainThread]: Running with dbt=1.3.0-b1
+[0m20:40:56.379717 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': True, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m20:40:56.380140 [debug] [MainThread]: Tracking: tracking
+[0m20:40:56.389329 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8ecb886350>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8ed0d49410>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8ed0d57190>]}
+[0m20:40:56.390052 [info ] [MainThread]: To view your profiles.yml file, run:
+
+xdg-open /dbt
+[0m20:40:56.390673 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8ed0d57190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8ecb952a90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8ecb952410>]}
+[0m20:40:56.391106 [debug] [MainThread]: Flushing usage events

@@ -1,0 +1,25 @@
+dt,temp,feels_like,pressure,humidity,dew_point,uvi,clouds,visibility,wind_speed,wind_deg,city,state,country
+2022-08-10 00:00:00,30.86,34.8,1012,61,22.46,0.0,75,10000,4.63,10,City of New York,New York,United States
+2022-08-10 01:00:00,30.47,34.21,1014,62,22.37,0.0,75,10000,2.06,90,City of New York,New York,United States
+2022-08-10 02:00:00,28.2,30.51,1015,66,21.25,0.0,40,10000,4.12,300,City of New York,New York,United States
+2022-08-10 03:00:00,28.56,32.29,1014,73,23.25,0.0,75,10000,4.12,220,City of New York,New York,United States
+2022-08-10 04:00:00,28.76,32.74,1014,73,23.44,0.0,75,10000,4.12,230,City of New York,New York,United States
+2022-08-10 05:00:00,28.58,32.16,1014,72,23.04,0.0,75,10000,4.12,240,City of New York,New York,United States
+2022-08-10 06:00:00,27.86,30.27,1014,69,21.65,0.0,0,10000,4.63,50,City of New York,New York,United States
+2022-08-10 07:00:00,27.13,28.65,1015,65,19.98,0.0,20,10000,5.14,30,City of New York,New York,United States
+2022-08-10 08:00:00,26.36,26.36,1015,61,18.24,0.0,40,10000,5.14,10,City of New York,New York,United States
+2022-08-10 09:00:00,25.53,25.78,1016,63,17.97,0.0,75,10000,5.81,41,City of New York,New York,United States
+2022-08-10 10:00:00,24.95,25.17,1016,64,17.67,0.0,40,10000,5.36,6,City of New York,New York,United States
+2022-08-10 11:00:00,24.9,25.17,1016,66,18.11,0.26,0,10000,5.14,10,City of New York,New York,United States
+2022-08-10 12:00:00,25.12,25.31,1017,62,17.33,0.99,75,10000,4.12,10,City of New York,New York,United States
+2022-08-10 13:00:00,26.4,26.4,1017,59,17.75,1.71,75,10000,5.36,22,City of New York,New York,United States
+2022-08-10 14:00:00,27.48,28.36,1017,56,17.93,3.09,100,10000,4.63,20,City of New York,New York,United States
+2022-08-10 15:00:00,28.31,29.11,1017,53,17.82,4.51,75,10000,4.63,60,City of New York,New York,United States
+2022-08-10 16:00:00,28.97,29.74,1017,51,17.82,5.12,40,10000,3.09,50,City of New York,New York,United States
+2022-08-10 17:00:00,29.19,30.17,1017,52,18.33,5.44,75,10000,5.14,180,City of New York,New York,United States
+2022-08-10 18:00:00,29.36,30.41,1016,52,18.48,5.02,100,10000,4.63,190,City of New York,New York,United States
+2022-08-10 19:00:00,29.67,30.87,1016,52,18.77,5.93,100,10000,6.17,280,City of New York,New York,United States
+2022-08-10 20:00:00,29.56,31.33,1015,56,19.86,3.96,75,10000,4.12,170,City of New York,New York,United States
+2022-08-10 21:00:00,28.51,30.5,1015,62,20.52,2.12,40,10000,4.63,160,City of New York,New York,United States
+2022-08-10 22:00:00,27.24,28.99,1014,67,20.58,0.83,0,10000,4.63,170,City of New York,New York,United States
+2022-08-10 23:00:00,25.98,25.98,1015,73,20.77,0.2,40,10000,6.26,161,City of New York,New York,United States

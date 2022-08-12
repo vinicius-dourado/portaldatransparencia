@@ -1,0 +1,25 @@
+dt,temp,feels_like,pressure,humidity,dew_point,uvi,clouds,visibility,wind_speed,wind_deg,city,state,country
+2022-08-09 00:00:00,28.69,32.58,1019,73,23.37,0.0,40,10000,5.66,140,Jacksonville,Florida,United States
+2022-08-09 01:00:00,27.73,30.9,1019,76,23.11,0.0,40,10000,3.6,140,Jacksonville,Florida,United States
+2022-08-09 02:00:00,27.05,29.95,1020,81,23.51,0.0,40,10000,4.12,150,Jacksonville,Florida,United States
+2022-08-09 03:00:00,26.62,26.62,1020,82,23.29,0.0,40,10000,3.09,140,Jacksonville,Florida,United States
+2022-08-09 04:00:00,25.56,26.39,1020,85,22.85,0.0,0,10000,1.54,260,Jacksonville,Florida,United States
+2022-08-09 05:00:00,25.17,25.99,1020,86,22.66,0.0,0,10000,0.0,0,Jacksonville,Florida,United States
+2022-08-09 06:00:00,24.59,25.38,1020,87,22.28,0.0,0,10000,0.0,0,Jacksonville,Florida,United States
+2022-08-09 07:00:00,24.34,25.13,1020,88,22.22,0.0,40,10000,0.0,0,Jacksonville,Florida,United States
+2022-08-09 08:00:00,24.28,25.04,1020,87,21.98,0.0,40,10000,0.0,0,Jacksonville,Florida,United States
+2022-08-09 09:00:00,23.6,24.34,1020,89,21.68,0.0,0,10000,0.0,0,Jacksonville,Florida,United States
+2022-08-09 10:00:00,23.6,24.31,1020,88,21.5,0.0,0,10000,3.09,350,Jacksonville,Florida,United States
+2022-08-09 11:00:00,23.59,24.28,1020,87,21.3,0.0,75,10000,3.09,30,Jacksonville,Florida,United States
+2022-08-09 12:00:00,25.44,26.23,1021,84,22.54,0.48,40,10000,2.57,40,Jacksonville,Florida,United States
+2022-08-09 13:00:00,27.52,31.31,1021,83,24.37,1.73,40,10000,1.54,120,Jacksonville,Florida,United States
+2022-08-09 14:00:00,29.3,34.45,1021,75,24.41,3.9,40,10000,1.54,90,Jacksonville,Florida,United States
+2022-08-09 15:00:00,31.01,37.03,1022,68,24.41,6.62,40,10000,2.57,140,Jacksonville,Florida,United States
+2022-08-09 16:00:00,32.26,39.01,1021,64,24.58,9.15,40,10000,2.57,0,Jacksonville,Florida,United States
+2022-08-09 17:00:00,33.24,40.14,1021,60,24.42,10.6,40,10000,2.57,0,Jacksonville,Florida,United States
+2022-08-09 18:00:00,34.01,40.59,1020,56,23.99,10.54,40,10000,3.6,130,Jacksonville,Florida,United States
+2022-08-09 19:00:00,27.78,31.14,1021,77,23.38,4.3,75,10000,5.14,90,Jacksonville,Florida,United States
+2022-08-09 20:00:00,31.52,38.05,1019,67,24.64,3.09,75,10000,4.63,80,Jacksonville,Florida,United States
+2022-08-09 21:00:00,32.41,39.41,1019,65,24.98,1.79,75,10000,5.14,130,Jacksonville,Florida,United States
+2022-08-09 22:00:00,31.78,37.77,1018,64,24.13,0.63,75,10000,7.72,150,Jacksonville,Florida,United States
+2022-08-09 23:00:00,30.61,36.02,1018,68,24.03,0.17,75,10000,6.69,160,Jacksonville,Florida,United States

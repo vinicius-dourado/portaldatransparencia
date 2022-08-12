@@ -1,0 +1,9 @@
+
+
+============================== 2022-08-10 18:30:49.209683 | 8e895d59-5e3d-462e-bdd6-f084a37f2cce ==============================
+18:30:49.209683 [info ] [MainThread]: Running with dbt=1.0.4
+18:30:49.210926 [debug] [MainThread]: running dbt with arguments Namespace(record_timing_info=None, debug=None, log_format=None, write_json=None, use_colors=None, printer_width=None, warn_error=None, version_check=None, partial_parse=None, single_threaded=False, use_experimental_parser=None, static_parser=None, profiles_dir='C:\\Users\\viuto\\.dbt', send_anonymous_usage_stats=None, fail_fast=None, event_buffer_size=None, project_dir=None, profile=None, target=None, vars='{}', log_cache_events=False, project_name='airflow_dbt', skip_profile_setup=False, defer=None, state=None, cls=<class 'dbt.task.init.InitTask'>, which='init', rpc_method=None)
+18:30:49.212464 [debug] [MainThread]: Tracking: tracking
+18:30:49.254743 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000260EBE19D00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000260EBE19EE0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000260EBE217F0>]}
+18:30:49.256774 [debug] [MainThread]: Starter project path: C:\Users\viuto\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\dbt\include\starter_project
+18:31:02.213341 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000260EBDFFFA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000260EBDFF490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000260EBDFF940>]}

@@ -1,0 +1,22 @@
+curl -LfO "https://airflow.apache.org/docs/apache-airflow/2.3.3/docker-compose.yaml"
+
+
+_PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:- geopy apache-airflow[postgres]}
+changed docker image to 'metadataio:0.0.1'
+
+docker build . -f Dockerfile --pull --tag metadataio:0.0.1
+docker compose up -d
+
+# Import Airflow connections and variables
+sudo docker-compose run airflow-cli connections import /app/connections.json 
+sudo docker-compose run airflow-cli variables import /app/airflow_variables.json
+
+--to stop the running containers
+docker compose down
+
+algoritimos
+arquitetura de dados
+hiring manager
+
+pci carreira olx
+

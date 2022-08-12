@@ -1,0 +1,25 @@
+dt,temp,feels_like,pressure,humidity,dew_point,uvi,clouds,visibility,wind_speed,wind_deg,city,state,country
+2022-08-10 00:00:00,17.64,17.47,1027,77,13.56,0.0,84,10000,3.09,60,City of Westminster,England,United Kingdom
+2022-08-10 01:00:00,16.76,16.58,1026,80,13.29,0.0,96,10000,2.57,50,City of Westminster,England,United Kingdom
+2022-08-10 02:00:00,16.19,16.06,1026,84,13.49,0.0,65,10000,1.54,40,City of Westminster,England,United Kingdom
+2022-08-10 03:00:00,15.82,15.7,1026,86,13.48,0.0,48,10000,1.54,10,City of Westminster,England,United Kingdom
+2022-08-10 04:00:00,15.29,15.17,1026,88,13.32,0.0,47,10000,1.54,350,City of Westminster,England,United Kingdom
+2022-08-10 05:00:00,15.51,15.36,1026,86,13.18,0.0,49,10000,1.03,0,City of Westminster,England,United Kingdom
+2022-08-10 06:00:00,16.65,16.62,1027,86,14.3,0.32,31,10000,1.54,10,City of Westminster,England,United Kingdom
+2022-08-10 07:00:00,18.51,18.56,1027,82,15.38,0.94,43,10000,2.06,50,City of Westminster,England,United Kingdom
+2022-08-10 08:00:00,20.79,20.88,1027,75,16.2,2.02,28,10000,3.09,60,City of Westminster,England,United Kingdom
+2022-08-10 09:00:00,23.11,23.17,1026,65,16.18,3.47,23,10000,3.6,90,City of Westminster,England,United Kingdom
+2022-08-10 10:00:00,24.92,24.9,1026,55,15.26,4.92,19,10000,3.6,90,City of Westminster,England,United Kingdom
+2022-08-10 11:00:00,26.64,26.64,1025,48,14.73,6.04,18,10000,4.63,90,City of Westminster,England,United Kingdom
+2022-08-10 12:00:00,27.56,27.61,1025,45,14.57,6.47,5,10000,5.14,90,City of Westminster,England,United Kingdom
+2022-08-10 13:00:00,28.31,28.02,1025,41,13.81,6.06,14,10000,6.17,110,City of Westminster,England,United Kingdom
+2022-08-10 14:00:00,28.43,28.05,1024,40,13.54,5.0,20,10000,6.17,110,City of Westminster,England,United Kingdom
+2022-08-10 15:00:00,28.46,28.0,1024,39,13.18,3.54,23,10000,6.69,110,City of Westminster,England,United Kingdom
+2022-08-10 16:00:00,28.2,27.77,1023,39,12.94,2.09,20,10000,5.66,100,City of Westminster,England,United Kingdom
+2022-08-10 17:00:00,27.78,27.41,1023,39,12.57,1.0,19,10000,6.17,100,City of Westminster,England,United Kingdom
+2022-08-10 18:00:00,26.54,26.54,1023,43,12.95,0.35,2,10000,6.17,100,City of Westminster,England,United Kingdom
+2022-08-10 19:00:00,24.68,24.48,1023,49,13.26,0.0,2,10000,6.17,100,City of Westminster,England,United Kingdom
+2022-08-10 20:00:00,23.36,23.19,1023,55,13.82,0.0,3,10000,4.12,90,City of Westminster,England,United Kingdom
+2022-08-10 21:00:00,21.65,21.46,1022,61,13.81,0.0,2,10000,4.63,90,City of Westminster,England,United Kingdom
+2022-08-10 22:00:00,20.7,20.55,1022,66,14.13,0.0,2,10000,4.63,80,City of Westminster,England,United Kingdom
+2022-08-10 23:00:00,19.89,19.76,1023,70,14.26,0.0,1,10000,4.12,90,City of Westminster,England,United Kingdom
